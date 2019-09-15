@@ -6,10 +6,10 @@ repositories:
     issues:
       auto_label:
         - dev
-    project_autoassign:
-      organization: true
-      name: TestProject
-      column: To do
+      project_autoassign:
+        organization: true
+        name: TestProject
+        column: To do
     dependency_security:
       alerts: true
       automatic_fixes: true
