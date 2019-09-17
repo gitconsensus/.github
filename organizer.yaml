@@ -74,6 +74,8 @@ labels:
 
   - name: refactor
     color: db5cb3
+    repos:
+      - test_rep
 
   - name: stability
     color: db5cb3
