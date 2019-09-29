@@ -2,7 +2,7 @@
 repositories:
   default:
     teams:
-      - TestTeam
+      TestTeam: push
     issues:
       auto_label:
         - dev
