@@ -1,8 +1,9 @@
 
 repositories:
   default:
-    teams:
-      TestTeam: push
+    teams_clean: true
+#    teams:
+#      TestTeam: push
     issues:
       auto_label:
         - dev
