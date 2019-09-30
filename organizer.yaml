@@ -5,6 +5,12 @@ repositories:
     teams_clean: true
     teams:
       TestTeam: push
+    branches:
+      master:
+         required_status_checks:
+            strict: true
+            contexts: []
+         enforce_admins: true
   .github: testing
   default:
     teams_clean: true
