@@ -1,6 +1,7 @@
 
 repositories:
   testing:
+    extends: default
     teams_clean: true
     teams:
       TestTeam: push
