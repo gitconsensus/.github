@@ -1,5 +1,10 @@
 
 repositories:
+  testing:
+    teams_clean: true
+    teams:
+      TestTeam: push
+  .github: testing
   default:
     teams_clean: true
     teams:
