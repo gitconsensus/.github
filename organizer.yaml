@@ -1,3 +1,11 @@
+teams:
+  TestTeam:
+    members:
+      - tedivm
+  OtherTestTeam:
+    members:
+      - tedivm
+      - AliLynne
 
 repositories:
   testing:
