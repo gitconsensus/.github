@@ -13,6 +13,9 @@ repositories:
     teams_clean: true
     teams:
       TestTeam: push
+    issues:
+      auto_label:
+        - testing      
     branches:
       master:
          required_status_checks:
